@@ -1,0 +1,72 @@
+#Classic Burger
+Bun
+Patty -c
+Onion -c
+Bun
+#Hotdog
+Bun
+Sausage -c
+Onion -c
+Bun
+#Cheese Burger
+Bun
+Patty -c
+Cheese
+Onion -c
+Bun
+#Double Cheese Burger
+Bun
+Patty -c
+Patty -c
+Onion -c
+Gherkin
+Cheese
+Bun
+#Sausage & Egg Bap
+Bun
+Sausage -c
+Fried Egg -c
+Bun
+#Sausage, Bacon & Egg Bap
+Bun
+Sausage -c
+Bacon -c
+Fried Egg -c
+Bun
+#Bacon Cheese Burger
+Bun
+Patty -c
+Bacon -c
+Cheese
+Gherkin
+Bun
+@
+CookTimes
+Patty =30
+Sausage =30
+Onion =20
+Tomato =15
+Bun =2
+Potato =25
+Cheese =3
+Onion =10
+Gherkin =5
+Fried Egg =10
+Bacon =14
+$
+Classic Burger. =2.7
+Hotdog. =2.7
+Cheese Burger. =3.5
+Double Cheese Burger. =4.8
+Sausage & Egg Bap. =3.9
+Sausage, Bacon & Egg Bap. =4.1
+Bacon Cheese Burger. =4.5
+Patty. =0.6
+Onion. =0.2
+Sausage. =0.7
+Cheese. =0.5
+Bun. =0.15
+Tomato. =0.2
+Gherkin. =0.2
+Egg. =0.3
+Bacon. =0.4
